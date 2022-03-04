@@ -8,7 +8,7 @@ body{
     font-family:Arial, Helvetica, sans-serif;
 }
 .container-1{
-    background: url(/Assets/Background.png) no-repeat;
+    background: url(assets/Background.png) no-repeat;
 }
 .container-1 #navigation{ 
     display: flex;
